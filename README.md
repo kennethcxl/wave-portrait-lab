@@ -39,6 +39,12 @@ Photos are processed in the browser. The application does not upload them to a s
 
 Serve the contents of this folder through any static host. For GitHub Pages, publish the repository root from your chosen branch.
 
+### Vercel Web Analytics
+
+`index.html` includes the Vercel Web Analytics script (`/_vercel/insights/script.js`) for static-site page-view tracking when hosted on Vercel.
+
+After deploying to Vercel, enable **Web Analytics** for the project in the Vercel dashboard to start collecting data.
+
 ## HTML exports
 
 Choose **Download HTML** in the studio to save a single offline file containing the selected settings, rendering code, and precomputed wave data. The exported player needs no external assets or network access. Color and hover settings can be edited in the embedded configuration; wave structure is precomputed from the chosen image and adjustments.
