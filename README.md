@@ -17,7 +17,7 @@ Open http://localhost:8000 in your browser. Using a local server ensures the sam
 ## Features
 
 - Local photo uploads with the original aspect ratio preserved.
-- Classic, Fine, and Bold starting looks.
+- Classic and Fine starting looks.
 - Line density, wave height, contrast, and weight controls.
 - Eight ink-and-paper palettes and custom colors.
 - Original-photo comparison, reveal animation, and hover focus.
